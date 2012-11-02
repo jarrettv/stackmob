@@ -1,4 +1,0 @@
-stackmob
-========
-
-test StackMob app
